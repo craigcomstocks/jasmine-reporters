@@ -13,7 +13,7 @@
     "url": "git://github.com/larrymyers/jasmine-reporters.git"
   },
   "dependencies": {
-    "jasmine": "^2.4.1",
+    "jasmine": "craigcomstocks/jasmine-npm#upgrade-glob",
     "mkdirp": "^0.5.1",
     "xmldom": "^0.1.22"
   },
